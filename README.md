@@ -1,4 +1,3 @@
-# E-Commerce-Data-Analysis-PostgreSQL-psycopg2-and-JupyterLab
 E-Commerce Data Analysis (PostgreSQL, Pandas, Jupyter Notebook)
 Overview
 This project explores e-commerce sales data from Kaggle, spanning April 2018 to March 2019. We use Python, Pandas, Jupyter Lab, and PostgreSQL to dig into what sells, which regions perform best, and how close sales came to monthly targets.
@@ -44,15 +43,18 @@ Clone the repository:
 bash
 git clone https://github.com/pramodkumarpodila-source/E-Commerce-Data-Analysis-PostgreSQL-psycopg2-and-JupyterLab.git
 Install requirements:
-Python, Jupyter Notebook/Lab, Pandas, Matplotlib, Seaborn, Psycopg2, and PostgreSQL
+Python, Jupyter Notebook or Lab, Pandas, Matplotlib, Seaborn, Psycopg2, and PostgreSQL
 
 Download the Kaggle CSV files into your repo folder
 
-Open the notebook and run each cell
+Open and run the notebook:
+Open the file named
 
-The notebook will prompt for your database info
+text
+analysis.ipynb
+using Jupyter Notebook or Jupyter Lab.
 
-Running through the cells will create tables, import data, analyze results, and build all visualizations
+Run each cell in order. The notebook will prompt you for database info and walk you through creating tables, importing data, analyzing results, and building all visualizations step by step.
 
 Team
 Sai Pramod, Genny, Majid
@@ -60,4 +62,3 @@ Sai Pramod, Genny, Majid
 License
 Public Domain
 Feel free to use, share, or modify any part of this project.
-
